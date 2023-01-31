@@ -1,1 +1,1 @@
-#GIT demo in class.
+#GIT demo in class
